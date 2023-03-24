@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm amuratakamitamu</h1>
 <h3 align="center">A noob Front-end Engineer</h3>
 
-- 🔭 I’m currently working on **AstronomyClub**
+- Name: Sekiguchi Keita
+- Nicname: amuratakamitamu
+- Location: japan
+- Language: Japanese(Native), English(Conversational)
+- Job: iOS Engineer
+- Interest: Artificial intelligence
+- Blog: n/a
+- Twitter: [@esukei_SKP](https://twitter.com/esukei_SKP)
 
-- 🌱 I’m currently learning **Mechanical engineering, Web design, 3DCG**
-
-- 📫 How to reach me **Direct mail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
