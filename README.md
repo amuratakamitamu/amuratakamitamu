@@ -48,6 +48,6 @@
 </p>
 
 <p align="center">
-  <img alihn="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&theme=graywhite" height= />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite" height= />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=graywhite" height="215px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="215px" />
 </p>
