@@ -47,7 +47,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amuratakamitamu&theme=graywhite" height="260px" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true&theme=graywhite" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<p align="center" display: flex justify-content: center>
+  <li><img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true&theme=graywhite" /></li>
+  <li><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></li>
 </p>
