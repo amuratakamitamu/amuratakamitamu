@@ -10,7 +10,7 @@
 - Interest: Artificial intelligence
 - Blog: n/a
 - Twitter: [@esukei_SKP](https://twitter.com/esukei_SKP)
-## :keyboard: Skill
+## 🧪: Tools
 <p align="left">
 </p>
 
