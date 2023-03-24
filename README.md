@@ -21,5 +21,10 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amuratakamitamu&theme=default" height="220px" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amuratakamitamu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu" height="158px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="158px" />
+</a>
