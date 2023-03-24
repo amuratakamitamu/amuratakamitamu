@@ -5,7 +5,7 @@
 - Nicname: amuratakamitamu
 - Location: japan
 - Language: Japanese(Native), English(Conversational)
-- Job: iOS Engineer
+- Job: Student of the National Institute of Technology
 - Interest: Artificial intelligence
 - Blog: n/a
 - Twitter: [@esukei_SKP](https://twitter.com/esukei_SKP)
