@@ -49,5 +49,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu" height="50%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="75%" />
 </p>
