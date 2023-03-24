@@ -48,6 +48,7 @@
 </p>
 
 <p align="center">
+  <img alihn="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&count_private=true" height="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu" height="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="44%" />
 </p>
