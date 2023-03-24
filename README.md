@@ -4,7 +4,7 @@
 ## 📋: About me
 - Name: Sekiguchi Keita
 - Nicname: amuratakamitamu
-- Location: japan
+- Location: Japan
 - Language: Japanese(Native), English(Conversational)
 - Job: Student of the National Institute of Technology
 - Interest: Artificial intelligence
