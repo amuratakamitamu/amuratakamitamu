@@ -43,14 +43,11 @@
 </p>
 
 ## 🥼: Status
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amuratakamitamu&theme=default" height="220px" />
-</a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu" height="158px" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="158px" />
-</a>
+</p>
