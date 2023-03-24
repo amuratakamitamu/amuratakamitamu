@@ -20,3 +20,4 @@
 ![Readme Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amuratakamitamu&theme=default)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amuratakamitamu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amuratakamitamu)](https://github.com/ryo-ma/github-profile-trophy)
