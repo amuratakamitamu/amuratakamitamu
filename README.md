@@ -61,8 +61,7 @@
 ## 🥼: Status
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true
-&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true&count_private=true&theme=graywhite" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="195px" />
 </div>
 
