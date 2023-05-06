@@ -7,7 +7,7 @@
 - Location: Japan
 - Language: Japanese(Native), English(Conversational)
 - Job: Student of the National Institute of Technology
-- Interest: Artificial intelligence
+- Interest: Rocket science
 - Blog: n/a
 - Twitter: [@esukei_SKP](https://twitter.com/esukei_SKP)
 ## 🧪: Languages and Tools
