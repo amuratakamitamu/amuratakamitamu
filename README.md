@@ -7,9 +7,9 @@
 - Location: Japan
 - Language: Japanese(Native), English(Conversational)
 - Job: Student of the National Institute of Technology
-- Interest: Rocket science
+- Interest: Aerospace science
 - Blog: n/a
-- Twitter: [@esukei_SKP](https://twitter.com/esukei_SKP)
+- 2023年9月よりカリフォルニア州へ留学中 
 ## 🧪: Languages and Tools
 <p align="left">
 </p>
