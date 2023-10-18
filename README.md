@@ -2,14 +2,14 @@
 <h3 align="center">A noob Front-end Engineer</h3>
 
 ## 📋: About me
-- Name: Sekiguchi Keita
+- Name: Keita Sekiguchi
 - Nicname: amuratakamitamu
-- Location: Japan
+- Location: Roseville, CA
 - Language: Japanese(Native), English(Conversational)
 - Job: Student of the National Institute of Technology
-- Interest: Aerospace science
-- Blog: n/a
-- 2023年9月よりカリフォルニア州へ留学中 
+- Interest: Aerospace science 🚀🪐
+- Blog: N/A
+- 2023年9月よりカリフォルニア州へ留学中🇯🇵✈️🇺🇸
 ## 🧪: Languages and Tools
 <p align="left">
 </p>
