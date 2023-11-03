@@ -7,7 +7,7 @@
 - Location: Roseville, CA
 - Language: Japanese(Native), English(Conversational)
 - Job: Student of the National Institute of Technology
-- Interest: Aerospace science 🚀🪐
+- Interest: Deep learning
 - Blog: N/A
 - 2023年9月よりカリフォルニア州へ留学中🇯🇵✈️🇺🇸
 
