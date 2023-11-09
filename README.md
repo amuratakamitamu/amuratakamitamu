@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm amuratakamitamu</h1>
-<h3 align="center">A noob Front-end Engineer</h3>
+<h3 align="center">駆け出しコーダー</h3>
 
 ## 📋: About me
 - Name: Keita Sekiguchi
 - Nicname: amuratakamitamu
 - Location: Roseville, CA
 - Language: Japanese(Native), English(Conversational)
-- Job: Student of the National Institute of Technology
-- Interest: Deep learning
-- Blog: N/A
+- School: National Institute of Technology
 - 2023年9月よりカリフォルニア州へ留学中🇯🇵✈️🇺🇸
 
 ## 🥼: Status
