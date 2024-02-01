@@ -1,9 +1,14 @@
-<div align="center"><img height="128" src="icon.png" /></div>
-<h1 align="center">Hi 👋, I'm amuratakamitamu</h1>
-<h3 align="center">駆け出しコーダー</h3>
+<p align="center">
+    <img src="icon.png" height="160">
+    <h1 align="center">amuratakamitamu</h1>
+    <p align="center">駆け出しコーダー</p>
+</p>
+
+
+
 <a href="https://atcoder.jp/users/amuratakamitamu" target="_blank" title="amuratakamitamu"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Famuratakamitamu" /></a>
 
-## 📋: About me
+## About me
 - Name: Keita Sekiguchi
 - Nicname: amuratakamitamu
 - Location: Roseville, CA
@@ -11,7 +16,7 @@
 - School: National Institute of Technology
 - 2023年9月よりカリフォルニア州へ留学中🇯🇵✈️🇺🇸
 
-## 🥼: Status
+## Status
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true&count_private=true&theme=graywhite" />
