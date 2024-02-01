@@ -1,4 +1,4 @@
-<img src=
+<div align="center"><img height="200" src="icon.png" /></div>
 <h1 align="center">Hi 👋, I'm amuratakamitamu</h1>
 <h3 align="center">駆け出しコーダー</h3>
 <a href="https://atcoder.jp/users/amuratakamitamu" target="_blank" title="amuratakamitamu"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Famuratakamitamu" /></a>
