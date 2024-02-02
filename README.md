@@ -19,7 +19,4 @@
 ## Status
 
 [![amuratakamitamu's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/amuratakamitamu?show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true&count_private=true&theme=graywhite" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amuratakamitamu&theme=graywhite" />
-</div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amuratakamitamu&theme=graywhite" />
