@@ -14,7 +14,7 @@
 - Location: Roseville, CA
 - Language: Japanese(Native), English(Conversational)
 - School: National Institute of Technology
-- 2023年9月よりカリフォルニア州へ留学中🇯🇵✈️🇺🇸
+- 2023年9月よりカリフォルニア州へ留学中
 
 ## Status
 
