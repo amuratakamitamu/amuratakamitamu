@@ -9,7 +9,7 @@
 <a href="https://atcoder.jp/users/amuratakamitamu" target="_blank" title="amuratakamitamu"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Famuratakamitamu" /></a>
 
 ## About me
-- 名前:amuratakamitamu(ニックネームです)
+- 名前: amuratakamitamu
 - ロケーション: 米カリフォルニア州ローズビル
 - 言語: 日本語
 - 所属: 独立行政法人工業高等専門学校機構
