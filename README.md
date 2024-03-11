@@ -5,11 +5,11 @@
 </p>
 
 ## About me
-- 名前: amuratakamitamu
-- ロケーション: 米カリフォルニア州ローズビル
-- 言語: 日本語
-- 所属: 独立行政法人国立高等専門学校機構
-- 2023年9月よりカリフォルニア州へ留学中death
+- Name: amuratakamitamu
+- Location: Roseville, CA, US
+- Language: Japanese
+- Affiliation: National Institute of Technology, Japan
+- Exchange student of High school
 
 ## Status
 <a href="https://atcoder.jp/users/amuratakamitamu" target="_blank" title="amuratakamitamu"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Famuratakamitamu" /></a>
