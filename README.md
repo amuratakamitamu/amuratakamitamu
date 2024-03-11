@@ -1,7 +1,7 @@
 <p align="center">
     <img src="icon.png" height="160">
     <h1 align="center">amuratakamitamu</h1>
-    <p align="center">駆け出しエンジニア</p>
+    <p align="center">Biginner engineer</p>
 </p>
 
 ## About me
