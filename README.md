@@ -9,7 +9,7 @@
 - Location: Roseville, CA, US
 - Language: Japanese
 - Affiliation: National Institute of Technology, Japan
-- Exchange student of High school
+- High school exchange student
 
 ## Status
 <a href="https://atcoder.jp/users/amuratakamitamu" target="_blank" title="amuratakamitamu"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Famuratakamitamu" /></a>
