@@ -13,3 +13,4 @@
 
 ## Status
 <a href="https://atcoder.jp/users/amuratakamitamu" target="_blank" title="amuratakamitamu"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Famuratakamitamu" /></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ef92f32a-bd58-4fb2-b85f-a1cd6402e495" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
