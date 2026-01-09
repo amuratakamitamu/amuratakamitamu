@@ -61,6 +61,7 @@
 - **2024 茨城高専 文化祭 「茨香祭」 公式Webサイト**
   - Webサイトの設計・開発を担当（Astro / tailwindCSS）
   - [shikosai33-web](https://github.com/shikosai33/shikosai33-web)
+  <img width="500" alt="screenshot" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86" />
 
 
 <br>
