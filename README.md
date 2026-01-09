@@ -67,15 +67,15 @@
   - [dcon.ai/results](https://dcon.ai/results/)
   <p>
     <img width="400" alt="rounded-image-1767945988436" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6" />
-    <img width="400" alt="tnv1isx1aRRy6R11746825854_1746825857" src="https://github.com/user-attachments/assets/068ca2d0-80ec-4d10-803e-23c831c9a646" />
+    <img width="300" alt="tnv1isx1aRRy6R11746825854_1746825857" src="https://github.com/user-attachments/assets/068ca2d0-80ec-4d10-803e-23c831c9a646" />
     <!-- <img width="300" alt="rounded-image-1767947682065" src="https://github.com/user-attachments/assets/118fc2d1-4db1-44ad-8d2d-dece39275836" /> -->
   </p>
 - **第10回 廃炉創造ロボコン ｢紫峰｣**
   - ROS2を用いたシステム開発､機械加工を担当
   - [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
   <p>
+    <img width="400" alt="rounded-image-1767969830315" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408" />
     <img width="400" alt="rounded-image-1767970397577" src="https://github.com/user-attachments/assets/a6c18811-5ace-4419-b5c8-400a6155183b" />
-    
   </p>
 
 <br>
