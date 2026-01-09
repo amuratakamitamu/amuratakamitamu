@@ -59,7 +59,7 @@
 ## 📂 Work Products
 
 - **2024 茨城高専 文化祭 「茨香祭」 公式Webサイト**
-  - Webサイトの設計・開発を担当（Next.js / Vercel）
+  - Webサイトの設計・開発を担当（Astro / tailwindCSS）
   - [shikosai33-web](https://github.com/shikosai33/shikosai33-web)
 
 
