@@ -74,8 +74,8 @@
   - ROS2を用いたシステム開発､機械加工を担当
   - [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
   <p>
-    <img width="400" alt="rounded-image-1767969830315" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408" />
-    <img width="400" alt="rounded-image-1767970397577" src="https://github.com/user-attachments/assets/a6c18811-5ace-4419-b5c8-400a6155183b" />
+    <img height="250" alt="rounded-image-1767969830315" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408" />
+    <img height="250" alt="rounded-image-1767970397577" src="https://github.com/user-attachments/assets/a6c18811-5ace-4419-b5c8-400a6155183b" />
   </p>
 
 <br>
