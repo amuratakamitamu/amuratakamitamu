@@ -51,8 +51,8 @@
 
 | Date | Event | Product | Result |
 | :--- | :--- | :--- | :--- |
-| **2025/10/15** | DCON2025 | **Locker.ai** | 🏅 **5th Place** |
-| **2025/12/20** | 第10回 廃炉創造ロボコン | **紫峰 (Shiho)** | 🥈 **2nd Place** |
+| **2025/10/15** | DCON2025 | **Locker.ai** | 🏅 **5th Place, トピー工業賞, 日立産業制御ソリューションズ賞, QUICK賞** |
+| **2025/12/20** | 第10回 廃炉創造ロボコン | **紫峰 (Shiho)** | 🥈 **2nd Place, 優秀賞** |
 
 <br>
 
@@ -64,15 +64,14 @@
   <img width="500" alt="screenshot" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86" />
 - **Locker AI**
   - ロッカーの電気電子回路･加工･設計を担当
-  <img width="500" alt="rounded-image-1767945988436" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6" />
-
+  - [dcon.ai/results](https://dcon.ai/results/)
+  <p>
+    <img width="400" alt="rounded-image-1767945988436" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6" />
+    <img width="400" alt="tnv1isx1aRRy6R11746825854_1746825857" src="https://github.com/user-attachments/assets/068ca2d0-80ec-4d10-803e-23c831c9a646" />
+    <!-- <img width="300" alt="rounded-image-1767947682065" src="https://github.com/user-attachments/assets/118fc2d1-4db1-44ad-8d2d-dece39275836" /> -->
+  </p>
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amuratakamitamu&show_icons=true&theme=radical" alt="amuratakamitamu's stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amuratakamitamu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🏆 Certifications
+- 🏅 **TOEIC L&R**: 795
