@@ -62,6 +62,9 @@
   - Webサイトの設計・開発を担当（Astro / tailwindCSS）
   - [shikosai33-web](https://github.com/shikosai33/shikosai33-web)
   <img width="500" alt="screenshot" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86" />
+- **Locker AI**
+  - ロッカーの電気電子回路･加工･設計を担当
+  <img width="500" alt="rounded-image-1767945988436" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6" />
 
 
 <br>
