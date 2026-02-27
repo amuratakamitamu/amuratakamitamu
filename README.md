@@ -75,7 +75,7 @@
   - [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
   <p>
     <img height="250" alt="rounded-image-1767969830315" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408" />
-    <img width="1972" height="1282" alt="Macbook Pro" src="https://github.com/user-attachments/assets/2c8fdc2a-c5e6-4e1b-84a1-b5f68e3ac1cb" />
+    <img height="250" alt="Macbook Pro" src="https://github.com/user-attachments/assets/2c8fdc2a-c5e6-4e1b-84a1-b5f68e3ac1cb" />
 
   </p>
 
