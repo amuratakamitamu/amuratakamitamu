@@ -22,7 +22,7 @@
 
 - 📍 **Location**: Ibaraki, Japan
 - 🗣️ **Language**: Japanese
-- 🏫 **Affiliation**: National Institute of Technology, Ibaraki College (NIT, Ibaraki)
+- 🏫 **Affiliation**: National Institute of Technology, Ibaraki College (NITIC) → Chiba Institute of Technology (CIT)
 - 🚀 **Focus**: ROS 2, Web Development (React/Next.js), UI/UX for Robots
 
 <br>
