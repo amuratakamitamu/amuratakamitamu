@@ -7,14 +7,14 @@
   </p>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/amuratakamitamu">
     <img src="https://img.shields.io/github/followers/amuratakamitamu?style=social" alt="GitHub followers">
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_ID">
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_ID?style=social" alt="Twitter Follow">
   </a>
-</p>
+</p> -->
 
 <br>
 
@@ -47,37 +47,58 @@
 
 <br>
 
-## 🏆 Achievements
+## 📂 Work Products & 🏆 Achievements
 
-| Date | Event | Product | Result |
-| :--- | :--- | :--- | :--- |
-| **2025/10/15** | DCON2025 | **Locker.ai** | 🏅 **5th Place, トピー工業賞, 日立産業制御ソリューションズ賞, QUICK賞** |
-| **2025/12/20** | 第10回 廃炉創造ロボコン | **紫峰 (Shiho)** | 🥈 **2nd Place, 優秀賞** |
+### **2024 茨城高専 文化祭 「茨香祭」 公式Webサイト (2024/09)**
+<p>
+<img width="500" alt="screenshot" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86" />
+</p>
 
-<br>
-
-## 📂 Work Products
-
-- **2024 茨城高専 文化祭 「茨香祭」 公式Webサイト**
-  - Webサイトの設計・開発を担当（Astro / tailwindCSS）
-  - [shikosai33-web](https://github.com/shikosai33/shikosai33-web)
-  <img width="500" alt="screenshot" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86" />
-- **Locker AI**
-  - ロッカーの電気電子回路･加工･設計を担当
-  - [dcon.ai/results](https://dcon.ai/results/)
+- Webサイトの設計・開発を担当（Astro / tailwindCSS）
+- [shikosai33-web](https://github.com/shikosai33/shikosai33-web)
+  
+### **DCON2025 ｢Locker AI｣ (2024/12-2025/04)**
   <p>
     <img width="400" alt="rounded-image-1767945988436" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6" />
     <img width="300" alt="tnv1isx1aRRy6R11746825854_1746825857" src="https://github.com/user-attachments/assets/068ca2d0-80ec-4d10-803e-23c831c9a646" />
-    <!-- <img width="300" alt="rounded-image-1767947682065" src="https://github.com/user-attachments/assets/118fc2d1-4db1-44ad-8d2d-dece39275836" /> -->
   </p>
-- **第10回 廃炉創造ロボコン ｢紫峰｣**
-  - ROS2を用いたシステム開発､機械加工を担当
-  - [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
+  
+- ハードウェア×ディープラーニングのプロダクトコンテスト
+- - 作品
+  - AIを用いた自動対応型遺失物ロッカー
+  - これまでの交番などでのフローと同様だが､自動化されている
+  - フロー
+      - 落とし物を拾った人(拾得者)が写真を撮影､ロッカーに格納
+      - 落とした人(遺失者)は落とし物の説明文章と落とした時刻を入力→AIモデルによりマッチング､審議､引き渡し
+      - マイナンバーAPIとの連携により､カードのタッチで受取者を追跡
+- 技術
+    - ModernBERTベース､独自にFine-tuningしたRerankingモデル(70名以上の回答者から3000行以上のデータセットを作成)
+    - VLMによる画像からの説明文生成→DBへ
+    - 独自のアンケートサイト
+    - 多言語対応
+    - 基盤設計→加工
+- 受賞
+    - 5位/95チーム(111作品)
+    - トピー工業株式会社賞
+    - 日立産業制御ソリューションズ賞
+    - Quick賞
+- [dcon.ai/results](https://dcon.ai/results/)
+  
+### **第10回 廃炉創造ロボコン ｢紫峰｣ (2025/12/20)**
   <p>
     <img height="250" alt="rounded-image-1767969830315" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408" />
     <img height="250" alt="Macbook Pro" src="https://github.com/user-attachments/assets/2c8fdc2a-c5e6-4e1b-84a1-b5f68e3ac1cb" />
-
   </p>
+
+- ROS2を用いたシステム開発､機械加工を担当
+- 福島第一原子力発電所2号機の燃料デブリを回収するミッション
+- ICを親機に搭載することで耐放射線性を向上
+- シンプルな設計で汚染洗浄のコストを削減
+- 技術
+  - ROS2と自作のWebGUIを使用
+  - GUI上からPIDゲインを設定可能に
+- [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
+
 
 <br>
 
