@@ -23,7 +23,7 @@
 - 📍 **Location**: Ibaraki, Japan
 - 🗣️ **Language**: Japanese
 - 🏫 **Affiliation**: National Institute of Technology, Ibaraki College (NITIC) → Chiba Institute of Technology (CIT)
-- 🚀 **Focus**: ROS 2, Web Development (React/Next.js), UI/UX for Robots
+- 🚀 **Focus**: ROS 2, Web Development (React/Next.js), Robot Systems
 
 <br>
 
@@ -90,6 +90,8 @@
   - トピー工業株式会社賞
   - 日立産業制御ソリューションズ賞
   - Quick賞
+- コメント
+  - 特例施設占有者(大きな商業施設や駅など)は落とし物を管理する人件費が必要でしたが､これはそれを大幅に削減します!また､利用者は落とし物がどこに預けられているか一瞬でわかります!
 - リンク
   - [DCON2025 結果](https://dcon.ai/results/)
   
