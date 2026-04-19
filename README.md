@@ -122,6 +122,8 @@
 ## 📰 Media Coverage
 [![article](https://github.com/user-attachments/assets/bace683e-e0c5-4431-b210-5d7247eea509)](https://gekkan-kosen.com/25871/)
 
+[![article](https://github.com/user-attachments/assets/84cc1d78-60d0-4ccc-b0a3-f444645be677)](https://www.ibaraki-ct.ac.jp/info/archives/75810)
+
 <br>
 
 ## 🏆 Certifications
