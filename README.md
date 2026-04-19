@@ -117,6 +117,11 @@
 - リンク
   - [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
 
+<br>
+
+## 📰 Media Coverage
+[![article](https://github.com/user-attachments/assets/ab5851c9-ab5b-457d-8f65-8fe2fd3f4711)](https://gekkan-kosen.com/25871/)
+
 
 <br>
 
