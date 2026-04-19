@@ -120,8 +120,7 @@
 <br>
 
 ## 📰 Media Coverage
-[![article](https://github.com/user-attachments/assets/ab5851c9-ab5b-457d-8f65-8fe2fd3f4711)](https://gekkan-kosen.com/25871/)
-
+[![article](https://github.com/user-attachments/assets/6a7f2bd2-f67e-4938-9871-f7f008d87b5c)](https://gekkan-kosen.com/25871/)
 
 <br>
 
