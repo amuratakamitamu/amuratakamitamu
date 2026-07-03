@@ -120,10 +120,10 @@
 <br>
 
 ## 📰 Media Coverage
-<a href="https://gekkan-kosen.com/25871">
+<a href="https://www.ibaraki-ct.ac.jp/info/archives/75810">
   <img src="https://github.com/user-attachments/assets/2a58d4dc-d57c-49e8-82d8-0e548019d0ec" height="160">
 </a>
-<a href="https://www.ibaraki-ct.ac.jp/info/archives/75810">
+<a href="https://gekkan-kosen.com/25871">
   <img src="https://github.com/user-attachments/assets/2c715dfb-e7ac-4f7e-b4b4-a0dec49998cf" height="160">
 </a>
 
