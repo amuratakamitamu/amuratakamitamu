@@ -139,12 +139,21 @@ ROS 2を用いた制御システムと、ゲームパッド・Web UIを組み合
 
 ## Media Coverage
 
-<p>
+<p align="center">
   <a href="https://www.ibaraki-ct.ac.jp/info/archives/75810">
-    <img src="https://github.com/user-attachments/assets/2a58d4dc-d57c-49e8-82d8-0e548019d0ec" height="160" alt="茨城高専掲載記事">
+    <img
+      src="https://github.com/user-attachments/assets/2a58d4dc-d57c-49e8-82d8-0e548019d0ec"
+      width="48%"
+      alt="茨城高専掲載記事"
+    >
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://gekkan-kosen.com/25871">
-    <img src="https://github.com/user-attachments/assets/2c715dfb-e7ac-4f7e-b4b4-a0dec49998cf" height="160" alt="月刊高専掲載記事">
+    <img
+      src="https://github.com/user-attachments/assets/2c715dfb-e7ac-4f7e-b4b4-a0dec49998cf"
+      width="48%"
+      alt="月刊高専掲載記事"
+    >
   </a>
 </p>
 
