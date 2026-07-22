@@ -15,11 +15,11 @@ React・Next.jsなどを用いたWeb開発に取り組んでいます。
 
 ## About Me
 
-- **Affiliation**: 茨城工業高等専門学校 → 千葉工業大学
-- **Location**: 茨城県・千葉県
+- **Affiliation**: 茨城高専（NITIC） → 千葉工業大学（CIT）
+- **Location**: 千葉県
 - **Interests**: 自律移動ロボット、ROS 2、VLA、Webアプリケーション
-- **Languages**: 日本語 / English
-- **アピールポイント**: ハード・ソフトともに，設計から実装までフルスタックで行えます!
+- **Research Theme**: 自律移動ロボットのためのVLAを用いた意味理解を伴うE2Eナビゲーション
+- **Strengths**: ハード・ソフトともに、設計から実装までフルスタックで行えます！
 
 ---
 
@@ -148,8 +148,6 @@ ROS 2を用いた制御システムと、ゲームパッド・Web UIを組み合
   </a>
 </p>
 
-- [茨城工業高等専門学校 掲載記事](https://www.ibaraki-ct.ac.jp/info/archives/75810)
-- [月刊高専 掲載記事](https://gekkan-kosen.com/25871)
 
 ---
 
