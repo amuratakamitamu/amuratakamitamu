@@ -132,6 +132,8 @@ ROS 2を用いた制御システムと、ゲームパッド・Web UIを組み合
   - Web UI
   - Gamepad Control
   - PID Control
+- **Achievements**
+  - 優秀賞（2位）/ 12チーム
 - **Link**
   - [第10回廃炉創造ロボコン ライブ動画](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
 
