@@ -1,133 +1,158 @@
-<p align="center">
-  <img src="icon.png" width="160" height="160" style="border-radius: 50%;">
-  <h1 align="center">amuratakamitamu</h1>
-  <p align="center">
-    <b>Robotics & Frontend Engineer</b><br>
-    Exploring the intersection of hardware control and web interfaces.
-  </p>
-</p>
+<div align="center">
 
-<!-- <p align="center">
-  <a href="https://github.com/amuratakamitamu">
-    <img src="https://img.shields.io/github/followers/amuratakamitamu?style=social" alt="GitHub followers">
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_ID?style=social" alt="Twitter Follow">
-  </a>
-</p> -->
+<img src="icon.png" width="160" height="160" alt="Profile icon">
 
-<br>
+# amuratakamitamu
 
-## 🧑‍💻 About Me
+**Robotics / Web Engineer**
 
-- 📍 **Location**: Ibaraki, Japan
-- 🗣️ **Language**: Japanese
-- 🏫 **Affiliation**: National Institute of Technology, Ibaraki College (NITIC) → Chiba Institute of Technology (CIT)
-- 🚀 **Focus**: ROS 2, Web Development (React/Next.js), Robot Systems
+ROS 2を中心としたロボットシステム開発と、  
+React・Next.jsなどを用いたWeb開発に取り組んでいます。
 
-<br>
+</div>
 
-## 🛠️ Tech Stack
+---
+
+## About Me
+
+- **Affiliation**: 茨城工業高等専門学校 → 千葉工業大学
+- **Location**: 茨城県・千葉県
+- **Interests**: 自律移動ロボット、ROS 2、VLA、Webアプリケーション
+- **Languages**: 日本語 / English
+- **アピールポイント**: ハード・ソフトともに，設計から実装までフルスタックで行えます!
+
+---
+
+## Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-### Frameworks & Tools
+### Robotics / Web / Infrastructure
+
 <p>
-  <img src="https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-<br>
+---
 
-## 📂 Work Products & 🏆 Achievements
+## Featured Projects
 
-### **2024 茨城高専 文化祭 「茨香祭」 公式Webサイト (2024/09)**
+### 茨城高専「茨香祭」公式Webサイト
+
+**期間：2024年9月**
+
 <p>
-<img width="500" alt="screenshot" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86" />
+  <img width="500" alt="茨香祭公式Webサイト" src="https://github.com/user-attachments/assets/8ecfad60-fd39-4db0-9a48-2aaa83f27f86">
 </p>
 
-- 作品
-  - 茨城高専文化祭用ホームページ
-- 技術
+茨城工業高等専門学校の文化祭「茨香祭」の公式Webサイトです。  
+サイト全体の設計、UIデザイン、フロントエンド実装を担当しました。
+
+- **Role**
+  - Webサイトの設計・デザイン・実装
+- **Technologies**
   - Astro
   - TypeScript
-  - 
-- 担当
-  - Webサイトの設計・開発を担当
-- リンク
-  - [shikosai33-web](https://github.com/shikosai33/shikosai33-web)
-  
-### **DCON2025 ｢Locker AI｣ (2024/12-2025/04)**
-  <p>
-    <img width="400" alt="rounded-image-1767945988436" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6" />
-    <img width="300" alt="tnv1isx1aRRy6R11746825854_1746825857" src="https://github.com/user-attachments/assets/068ca2d0-80ec-4d10-803e-23c831c9a646" />
-  </p>
-  
-- ハードウェア×ディープラーニングのビジネスプランコンテスト
-- 作品
-  - AIを用いた自動対応型遺失物ロッカー
-  - これまでの交番などでのフローと同様だが､自動化されている
-  - フロー
-    - 落とし物を拾った人(拾得者)が写真を撮影､ロッカーに格納
-    - 落とした人(遺失者)は落とし物の説明文章と落とした時刻を入力→AIモデルによりマッチング､審議､引き渡し
-    - マイナンバーAPIとの連携により､カードのタッチで受取者を追跡
-- 技術
-  - ModernBERTベース､独自にFine-tuningしたRerankingモデル(70名以上の回答者から3000行以上のデータセットを作成)
-  - VLMによる画像からの説明文生成→DBへ
-  - 独自のアンケートサイト
-  - 多言語対応
-  - 基盤設計→加工
-- 受賞
-  - 5位/95チーム(111作品)
+- **Repository**
+  - [shikosai33/shikosai33-web](https://github.com/shikosai33/shikosai33-web)
+
+---
+
+### DCON2025 "Locker AI"
+
+**期間：2024年12月〜2025年4月**
+
+<p>
+  <img width="400" alt="Locker AI" src="https://github.com/user-attachments/assets/5c2c332d-9762-4cdf-b3fe-a4725e614ab6">
+  <img width="300" alt="Locker AI demonstration" src="https://github.com/user-attachments/assets/068ca2d0-80ec-4d10-803e-23c831c9a646">
+</p>
+
+AIを用いて、落とし物の登録・照合・受け渡しを自動化するスマートロッカーです。
+
+拾った人が撮影した画像からVLMが特徴を抽出し、データベースへ登録します。  
+落とした人が入力した説明文と時刻を基に、独自にFine-tuningしたRerankingモデルが候補を照合します。
+
+また、マイナンバーカードAPIとの連携による本人確認と、受取者を記録する仕組みを設計しました。
+
+- **Role**
+  - エッジデバイス（ロッカー）の開発（基盤設計・加工・組み込み）
+  - システム全体の設計
+  - データセットの収集
+  - ビジネスモデルの設計
+- **Technologies**
+  - ModernBERT
+  - VLM
+  - Fine-tuned Reranking Model
+  - TypeScript
+- **Dataset**
+  - 70名以上から回答を収集
+  - 3,000行以上のデータセットを作成
+- **Achievements**
+  - 95チーム・111作品中5位
   - トピー工業株式会社賞
   - 日立産業制御ソリューションズ賞
   - Quick賞
-- コメント
-  - 特例施設占有者(大きな商業施設や駅など)は落とし物を管理する人件費が必要でしたが､これはそれを大幅に削減します!また､利用者は落とし物がどこに預けられているか一瞬でわかります!
-- リンク
+- **Link**
   - [DCON2025 結果](https://dcon.ai/results/)
-  
-### **第10回 廃炉創造ロボコン ｢紫峰｣ (2025/12/20)**
-  <p>
-    <img height="250" alt="rounded-image-1767969830315" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408" />
-    <img height="250" alt="Macbook Pro" src="https://github.com/user-attachments/assets/2c8fdc2a-c5e6-4e1b-84a1-b5f68e3ac1cb" />
-  </p>
 
-- 作品
-  - 福島第一原子力発電所2号機のデブリ回収用ロボット
-- アイデア
-  - ICを親機に搭載することで耐放射線性を向上
-  - シンプルな設計で汚染洗浄のコストを削減
-  - ゲームパッドxWebUIによるモダンな操作
-- 担当
-  - ROS2を用いたシステム開発､機械加工を担当
-- 技術
-  - ROS2と自作のWebGUIを使用
-  - GUI上からPIDゲインを設定可能に
-- コメント
-  - 移動制御の一部自動化を目指しましたが､操縦者の腕が良かったため実装を断念しました
-- リンク
-  - [第10回廃炉創造ロボコン（ライブ動画配信）](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
+---
 
-<br>
+### 第10回 廃炉創造ロボコン「紫峰」
 
-## 📰 Media Coverage
-<a href="https://www.ibaraki-ct.ac.jp/info/archives/75810">
-  <img src="https://github.com/user-attachments/assets/2a58d4dc-d57c-49e8-82d8-0e548019d0ec" height="160">
-</a>
-<a href="https://gekkan-kosen.com/25871">
-  <img src="https://github.com/user-attachments/assets/2c715dfb-e7ac-4f7e-b4b4-a0dec49998cf" height="160">
-</a>
+**開催日：2025年12月20日**
 
-<br>
+<p>
+  <img height="250" alt="廃炉ロボット 紫峰" src="https://github.com/user-attachments/assets/3d97e125-5bd6-49c8-a1bc-f48b80f89408">
+  <img height="250" alt="Robot control interface" src="https://github.com/user-attachments/assets/2c8fdc2a-c5e6-4e1b-84a1-b5f68e3ac1cb">
+</p>
 
-## 🏆 Certifications
-- 🏅 **TOEIC L&R**: 795
+福島第一原子力発電所2号機を想定した、燃料デブリ回収用ロボットです。
+
+制御用ICを親機側に配置することで耐放射線性を高め、機体構造を単純化することで汚染洗浄のコスト削減を目指しました。
+
+ROS 2を用いた制御システムと、ゲームパッド・Web UIを組み合わせた操作環境を開発しました。  
+
+- **Role**
+  - ROS 2を用いたシステム開発
+  - Web操作画面の開発
+  - 機械加工
+- **Technologies**
+  - ROS 2
+  - Web UI
+  - Gamepad Control
+  - PID Control
+- **Link**
+  - [第10回廃炉創造ロボコン ライブ動画](https://www.youtube.com/live/89iDj7us28s?si=xVqAFmAHTHspXijx&t=3549)
+
+---
+
+## Media Coverage
+
+<p>
+  <a href="https://www.ibaraki-ct.ac.jp/info/archives/75810">
+    <img src="https://github.com/user-attachments/assets/2a58d4dc-d57c-49e8-82d8-0e548019d0ec" height="160" alt="茨城高専掲載記事">
+  </a>
+  <a href="https://gekkan-kosen.com/25871">
+    <img src="https://github.com/user-attachments/assets/2c715dfb-e7ac-4f7e-b4b4-a0dec49998cf" height="160" alt="月刊高専掲載記事">
+  </a>
+</p>
+
+- [茨城工業高等専門学校 掲載記事](https://www.ibaraki-ct.ac.jp/info/archives/75810)
+- [月刊高専 掲載記事](https://gekkan-kosen.com/25871)
+
+---
+
+## Certifications
+
+- **TOEIC Listening & Reading**: 795
