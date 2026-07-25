@@ -18,8 +18,8 @@ React・Next.jsなどを用いたWeb開発に取り組んでいます。
 - **Affiliation**: 茨城高専（NITIC） → 千葉工業大学（CIT）
 - **Location**: 千葉県
 - **Interests**: 自律移動ロボット、ROS 2、VLA、Webアプリケーション
-- **Research Theme**: 自律移動ロボットのためのVLAを用いた意味理解を伴うE2Eナビゲーション
-- **Strengths**: ハード・ソフトともに、設計から実装までフルスタックで行えます！
+- **Research Theme**: 自律移動ロボットのためのVLAを用いたE2Eナビゲーション
+- **Strengths**: ハード・ソフトともに、設計から実装までフルスタックで行った経験があります!
 
 ---
 
